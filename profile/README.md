@@ -36,8 +36,6 @@
 
 ---
 
-<div align="center">
+Alantec - Arquitetos do Futuro
 
-Alantec - Architects of the Future
 
-</div>
