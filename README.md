@@ -16,11 +16,14 @@
 
 ---
 
-## 🗂️ Asset Mapping
+### 📦 Asset Mapping
 
-* 👤 **Engineer:** Jean Laris
-* 🎯 **Standard:** Harvard Elite
-* 🟢 **Status:** Active Audit (Signal vs. Noise)
+*   **👤 GEO (Generative Engine Optimization)**
+    *   *Operator:* Jean Laris
+*   **🎯 Standard**
+    *   *Specification:* Harvard Elite (High-Definition Architecture E1+E2)
+*   **🟢 Status**
+    *   *Directive:* Active HITL (Human-in-the-Loop — The human operator in command of cognitive sovereignty)
 
 ---
 
