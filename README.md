@@ -1,4 +1,4 @@
-# 🌐 .github
+### 🌐 Calibrated-Mind
 
 > **Cognitive Sovereignty | Strategic Architecture | Engineering of Anticipation**
 >
