@@ -4,7 +4,7 @@
 >
 > *Transforming Chaos into Power. The world operates in 144p; we paste the future in 4K.*
 
-[![Sponsor Mente Calibrada](https://img.shields.io/badge/Sponsor-Mente_Calibrada-34A853?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Mente-Calibrada)
+[![Sponsor Calibrated-Mind](https://img.shields.io/badge/Sponsor-Calibrated--Mind-443953?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Calibrated-Mind)
 
 ---
 
